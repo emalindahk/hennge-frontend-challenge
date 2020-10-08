@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+}
+.header__search{
+    display: flex;
+    flex-direction: row;
+}
+.header__searchInput{
+     height: 2rem;
+     width: 15rem;
+     border: 1px solid #ada9a9;
+     border-top-left-radius: 5px;
+     border-bottom-left-radius: 5px;
+
+}
+.header__searchIcon{
+    height: 1.3rem;
+    padding: 0.47rem;
+    background-color: #d6d6d6;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}

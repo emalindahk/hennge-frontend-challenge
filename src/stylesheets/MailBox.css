@@ -1,0 +1,17 @@
+.mailbox {
+    margin-top: 1rem;
+}
+
+.mailbox__resultsCount{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ada9a9;
+}
+
+.mailbox__logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}
+
